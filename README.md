@@ -4,7 +4,7 @@
 
 ## デモ
 
-<video src="2026-04-14_000254.mp4" controls autoplay loop muted playsinline></video>
+<video src="https://github.com/yugo-yamamoto/webgpu-star-sphere/releases/download/v1.0/2026-04-14_000254.mp4" controls autoplay loop muted playsinline></video>
 
 `star-sphere.html` をブラウザで開くだけで動作します。
 
